@@ -13,3 +13,6 @@ export * from 'components/Text/Text.styled';
 export * from 'components/Grid/Grid.styled';
 export * from 'components/ImageCard/ImageCard.styled';
 export * from 'components/Todo/Todo';
+export * from 'components/LoadMoreBtn/LoadMoreBtn';
+export * from 'components/NoImages/NoImages';
+export * from 'components/ImagesGallery/ImagesGallery';
