@@ -16,3 +16,6 @@ export * from 'components/Todo/Todo';
 export * from 'components/LoadMoreBtn/LoadMoreBtn';
 export * from 'components/NoImages/NoImages';
 export * from 'components/ImagesGallery/ImagesGallery';
+export * from 'components/Overlay/Overlay.styled';
+export * from 'components/Loader/Loader';
+export * from 'components/ErrorText/ErrorText';
